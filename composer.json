@@ -1,0 +1,14 @@
+{
+    "name": "mjerwin/db-rules",
+    "description": "Laravel Database Convention Checker",
+    "type": "library",
+    "require": {
+        "doctrine/dbal": "^2.10"
+    },
+    "authors": [
+        {
+            "name": "Matthew Erwin",
+            "email": "matthew.j.erwin@me.com"
+        }
+    ]
+}
